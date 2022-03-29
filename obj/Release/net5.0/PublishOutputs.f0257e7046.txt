@@ -1,0 +1,11 @@
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 13\WeatherTest\bin\Release\net5.0\publish\WeatherTest.exe
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 13\WeatherTest\bin\Release\net5.0\publish\appsettings.Development.json
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 13\WeatherTest\bin\Release\net5.0\publish\appsettings.json
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 13\WeatherTest\bin\Release\net5.0\publish\WeatherTest.dll
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 13\WeatherTest\bin\Release\net5.0\publish\WeatherTest.deps.json
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 13\WeatherTest\bin\Release\net5.0\publish\WeatherTest.runtimeconfig.json
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 13\WeatherTest\bin\Release\net5.0\publish\WeatherTest.pdb
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 13\WeatherTest\bin\Release\net5.0\publish\Microsoft.OpenApi.dll
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 13\WeatherTest\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 13\WeatherTest\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 13\WeatherTest\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
